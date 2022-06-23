@@ -41,4 +41,6 @@ En mis tiempos libres, me gusta hacer diferentes actividad:
   * bjj Jiu-jitsu brasileño, lezenie, przytulanie, duszenie, lamanie - acostarse, abrazarse, asfixiarse, romperse
   * correr
   * bailar en discoteca, rey en la discoteca
-   
+ 
+ ![image](https://user-images.githubusercontent.com/13277748/175184494-4bbaaf8e-9e9d-4f04-8492-bb7f146d2b68.png)
+
