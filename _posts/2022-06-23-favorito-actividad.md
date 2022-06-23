@@ -30,6 +30,10 @@ En mis tiempos libres, me gusta hacer diferentes actividad:
     * he estado leyendo ultimamente
       * Diuna 
       * Uncle Bob series
+  * viajar alrededor del mundo. 
+   * recientemente República Dominicana, 
+   * este año eurotrip, Berlín, Copenhague, Amsterdam.
+   * el año que viene japón
 * desportivo. Tengo una lesión en la rodilla, un varo.: un varo rodilla
   * bjj Jiu-jitsu brasileño, lezenie, przytulanie, duszenie, lamanie - acostarse, abrazarse, asfixiarse, romperse
   * correr
