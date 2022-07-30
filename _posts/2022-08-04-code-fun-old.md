@@ -49,6 +49,11 @@ https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/
  https://www.statlearning.com/
  http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
  
+ 2021-11-10
+ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+ https://www.youtube.com/watch?v=PB_d3uBkQPs&ab_channel=FunFunFunction
+ 
+ 
  
  2021-11-18
  https://docs.paramiko.org/en/stable/api/client.html
@@ -58,12 +63,18 @@ https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/
  https://youtu.be/3zBhTFblmm8
  https://www.youtube.com/watch?v=2h6h9xuwxLo&t
  https://www.globaltimes.cn/page/202111/1238512.shtml
+ https://github.com/nvbn/thefuck
  
  
  2021-11-25
  https://www.youtube.com/watch?v=Bb0xd2k_RN8
  https://support.atlassian.com/jira-software-cloud/docs/process-issues-with-smart-commits/
  https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/
+ https://github.com/naiquevin/pipdeptree
+ https://monkeytype.com/
+ https://humanbenchmark.com/tests/reactiontime
+ https://pdm.fming.dev/
+ Grupowanie otwartych zakładek w Google Chrome
  
  
  2021-12-02
@@ -73,10 +84,28 @@ https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/
  https://pytechsummit.pl/
  
  
+ 2021-12-16
+ https://github.blog/changelog/2020-02-21-a-new-interaction-for-multi-line-pull-request-comments/
+ https://stackoverflow.com/questions/29719274/pycharm-turning-selection-to-multiple-cursors-per-line
+ https://github.com/myint/unify
+ https://github.com/pycaret/pycaret
+ https://pola-rs.github.io/polars-book/user-guide/introduction.html
+ 
+ 
  2022-01-20
  https://procoders.tech/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/09/frontend-vs.-backend-meme.jpg.webp
  [obraz] 
  https://i.redd.it/ku1neu504sh01.jpg
+ https://github.com/neovim/neovim
+ https://pypi.org/project/Unidecode/
+ https://www.youtube.com/c/GoogleChromeDevelopers
+ https://affinity.serif.com/en-us/
+ https://www.typescriptlang.org/
+ https://github.com/pugjs/pug
+ https://pylint.org/
+ Replace a semicolon (;) with a greek question mark (;)
+ https://www.twitch.tv/anthonywritescode
+ https://github.com/jokteur/python_communism
  
  
  2022-01-27
@@ -92,6 +121,9 @@ https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/
  https://bigfrontend.dev/typescript
  https://vuejsnation.com/workshops
  https://kazupon.github.io/vue-i18n/started.html#html
+ https://www.snorkel.org/get-started/
+ https://suricrasia.online/iceberg/
+ https://systemd-by-example.com/system/new
  
  
  2022-02-11
@@ -108,6 +140,7 @@ https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/
 
  https://github.com/terraform-aws-modules/terraform-aws-eks/pull/1937#issuecomment-1068308469
  https://midnight-commander.org/ticket/1
+ https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
  
  2022-04-07
  https://pypi.org/project/pytest-lazy-fixture/
