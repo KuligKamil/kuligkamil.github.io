@@ -12,72 +12,95 @@ Code&Fun:
 
 ---
 
-1. 	  https://www.codewars.com/ 
- Codewars - Achieve mastery through coding practice and developer mentorship 
+1. Codewars - Achieve mastery through coding practice and developer mentorship 
 
-2. 	  https://aws-data-wrangler.readthedocs.io/en/stable/# 
- Quick Start — AWS Data Wrangler 2.16.1 documentation 
+  https://www.codewars.com/ 
 
-3. 	  https://virtualenvwrapper.readthedocs.io/en/latest/ 
- virtualenvwrapper 5.0.1.dev2 — virtualenvwrapper 5.0.1.dev2 documentation 
+2. Quick Start — AWS Data Wrangler 2.16.1 documentation 
 
-4. 	  https://loguru.readthedocs.io/en/stable/index.html 
- Table of contents — loguru documentation 
+  https://aws-data-wrangler.readthedocs.io/en/stable/# 
 
-5. 	  https://www.statlearning.com/ 
- An Introduction to Statistical Learning 
+3. virtualenvwrapper 5.0.1.dev2 — virtualenvwrapper 5.0.1.dev2 documentation 
 
-6. 	  http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf 
-  
+  https://virtualenvwrapper.readthedocs.io/en/latest/ 
 
-7. 	  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment 
- Destructuring assignment - JavaScript | MDN 
+4. Table of contents — loguru documentation 
 
-8. 	  https://www.youtube.com/watch?v=PB_d3uBkQPs&ab_channel=FunFunFunction 
- Destructuring: What, Why and How - Part 1 of ES6 JavaScript Features - YouTube 
+  https://loguru.readthedocs.io/en/stable/index.html 
 
-9. 	  https://docs.paramiko.org/en/stable/api/client.html 
- Client — Paramiko documentation 
+5. An Introduction to Statistical Learning 
 
-10. 	  https://github.com/gregghz/Watcher 
- GitHub - gregghz/Watcher: Watcher is a daemon that watches specified files/folders for changes and fires commands in response to those changes. It is similar to incron, however, configuration uses a simpler to read yaml file instead of a plain text file. It's also written in Python, making it easier to hack. 
+  https://www.statlearning.com/ 
 
-11. 	  https://github.com/pyston/pyston 
- GitHub - pyston/pyston: A faster and highly-compatible implementation of the Python programming language. 
+6.  
 
-12. 	  https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=pl 
- JSON Viewer - Chrome Web Store 
+  http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf 
 
-13. 	  https://youtu.be/3zBhTFblmm8 
- Python versions management with pyenv - YouTube 
+7. Destructuring assignment - JavaScript | MDN 
 
-14. 	  https://www.youtube.com/watch?v=2h6h9xuwxLo&t 
- 1 - Python w Data Science - Wprowadzenie - Python (1 z 2) - YouTube 
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment 
 
-15. 	  https://www.globaltimes.cn/page/202111/1238512.shtml 
- Facial recognition for goats rolled out in Shanghai - Global Times 
+8. Destructuring: What, Why and How - Part 1 of ES6 JavaScript Features - YouTube 
 
-16. 	  https://github.com/nvbn/thefuck 
- GitHub - nvbn/thefuck: Magnificent app which corrects your previous console command. 
+  https://www.youtube.com/watch?v=PB_d3uBkQPs&ab_channel=FunFunFunction 
 
-17. 	  https://www.youtube.com/watch?v=Bb0xd2k_RN8 
- Pan Przemek - Czy program Blender jest lepszy od programów 3dsMAX i MODO? - YouTube 
+9. Client — Paramiko documentation 
 
-18. 	  https://support.atlassian.com/jira-software-cloud/docs/process-issues-with-smart-commits/ 
- Process issues with smart commits | Jira Software Cloud | Atlassian Support 
+  https://docs.paramiko.org/en/stable/api/client.html 
 
-19. 	  https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/ 
- Welcome to Fleet! | JetBrains News 
+10. GitHub - gregghz/Watcher: Watcher is a daemon that watches specified files/folders for changes and fires commands in response to those changes. It is similar to incron, however, configuration uses a simpler to read yaml file instead of a plain text file. It's also written in Python, making it easier to hack. 
 
-20. 	  https://github.com/naiquevin/pipdeptree 
- GitHub - naiquevin/pipdeptree: A command line utility to display dependency tree of the installed Python packages 
+  https://github.com/gregghz/Watcher 
 
-21. 	  https://monkeytype.com/ 
- Monkeytype 
+11. GitHub - pyston/pyston: A faster and highly-compatible implementation of the Python programming language. 
 
-22. 	  https://humanbenchmark.com/tests/reactiontime 
- Human Benchmark - Reaction Time Test 
+  https://github.com/pyston/pyston 
 
-23. 	  https://pdm.fming.dev/ 
- Home - PDM 
+12. JSON Viewer - Chrome Web Store 
+
+  https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=pl 
+
+13. Python versions management with pyenv - YouTube 
+
+  https://youtu.be/3zBhTFblmm8 
+
+14. 1 - Python w Data Science - Wprowadzenie - Python (1 z 2) - YouTube 
+
+  https://www.youtube.com/watch?v=2h6h9xuwxLo&t 
+
+15. Facial recognition for goats rolled out in Shanghai - Global Times 
+
+  https://www.globaltimes.cn/page/202111/1238512.shtml 
+
+16. GitHub - nvbn/thefuck: Magnificent app which corrects your previous console command. 
+
+  https://github.com/nvbn/thefuck 
+
+17. Pan Przemek - Czy program Blender jest lepszy od programów 3dsMAX i MODO? - YouTube 
+
+  https://www.youtube.com/watch?v=Bb0xd2k_RN8 
+
+18. Process issues with smart commits | Jira Software Cloud | Atlassian Support 
+
+  https://support.atlassian.com/jira-software-cloud/docs/process-issues-with-smart-commits/ 
+
+19. Welcome to Fleet! | JetBrains News 
+
+  https://blog.jetbrains.com/blog/2021/11/29/welcome-to-fleet/ 
+
+20. GitHub - naiquevin/pipdeptree: A command line utility to display dependency tree of the installed Python packages 
+
+  https://github.com/naiquevin/pipdeptree 
+
+21. Monkeytype 
+
+  https://monkeytype.com/ 
+
+22. Human Benchmark - Reaction Time Test 
+
+  https://humanbenchmark.com/tests/reactiontime 
+
+23. Home - PDM 
+
+  https://pdm.fming.dev/ 
 

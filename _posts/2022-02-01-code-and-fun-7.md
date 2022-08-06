@@ -12,39 +12,51 @@ Code&Fun:
 
 ---
 
-1. 	  https://pinia.vuejs.org/ 
- Home | Pinia 
+1. Home | Pinia 
 
-2. 	  https://jiratemplate.com/ 
- Jira Template Injector 
+  https://pinia.vuejs.org/ 
 
-3. 	  https://www.typescriptlang.org/docs/ 
- TypeScript: The starting point for learning TypeScript 
+2. Jira Template Injector 
 
-4. 	  https://bigfrontend.dev/typescript 
- TypeScript challenges: | BFE.dev - prepare for Front-End job interviews. 
+  https://jiratemplate.com/ 
 
-5. 	  https://vuejsnation.com/workshops 
- Vue.js Nation | Workshops 
+3. TypeScript: The starting point for learning TypeScript 
 
-6. 	  https://kazupon.github.io/vue-i18n/started.html#html 
- Getting started | Vue I18n 
+  https://www.typescriptlang.org/docs/ 
 
-7. 	  https://www.snorkel.org/get-started/ 
- Get Started · Snorkel 
+4. TypeScript challenges: | BFE.dev - prepare for Front-End job interviews. 
 
-8. 	  https://suricrasia.online/iceberg/ 
- The Cursed Computer Iceberg Meme 
+  https://bigfrontend.dev/typescript 
 
-9. 	  https://systemd-by-example.com/system/new 
- systemd by example - the systemd playground 
+5. Vue.js Nation | Workshops 
 
-10. 	  https://vtm.netxs.online/ 
-  
+  https://vuejsnation.com/workshops 
 
-11. 	  https://github.com/ResidentMario/missingno 
- GitHub - ResidentMario/missingno: Missing data visualization module for Python. 
+6. Getting started | Vue I18n 
 
-12. 	  https://spacy.io/ 
- spaCy · Industrial-strength Natural Language Processing in Python 
+  https://kazupon.github.io/vue-i18n/started.html#html 
+
+7. Get Started · Snorkel 
+
+  https://www.snorkel.org/get-started/ 
+
+8. The Cursed Computer Iceberg Meme 
+
+  https://suricrasia.online/iceberg/ 
+
+9. systemd by example - the systemd playground 
+
+  https://systemd-by-example.com/system/new 
+
+10.  
+
+  https://vtm.netxs.online/ 
+
+11. GitHub - ResidentMario/missingno: Missing data visualization module for Python. 
+
+  https://github.com/ResidentMario/missingno 
+
+12. spaCy · Industrial-strength Natural Language Processing in Python 
+
+  https://spacy.io/ 
 

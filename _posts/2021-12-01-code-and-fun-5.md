@@ -12,30 +12,39 @@ Code&Fun:
 
 ---
 
-1. 	  https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-pandas-dataframe 
- python - Combine two columns of text in pandas dataframe - Stack Overflow 
+1. python - Combine two columns of text in pandas dataframe - Stack Overflow 
 
-2. 	  https://github.com/Ag0r9/mask-detector 
- GitHub - Ag0r9/mask-detector 
+  https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-pandas-dataframe 
 
-3. 	  http://siadamgadampelenserwis.pl:8501/ 
-  
+2. GitHub - Ag0r9/mask-detector 
 
-4. 	  https://pytechsummit.pl/ 
- Pytech Summit 2022 (online) | Największa konferencja o Python 
+  https://github.com/Ag0r9/mask-detector 
 
-5. 	  https://github.blog/changelog/2020-02-21-a-new-interaction-for-multi-line-pull-request-comments/ 
- A new interaction for multi-line pull request comments | GitHub Changelog 
+3.  
 
-6. 	  https://stackoverflow.com/questions/29719274/pycharm-turning-selection-to-multiple-cursors-per-line 
- PyCharm: Turning selection to multiple cursors per line - Stack Overflow 
+  http://siadamgadampelenserwis.pl:8501/ 
 
-7. 	  https://github.com/myint/unify 
- GitHub - myint/unify: Modifies strings to all use the same quote where possible 
+4. Pytech Summit 2022 (online) | Największa konferencja o Python 
 
-8. 	  https://github.com/pycaret/pycaret 
- GitHub - pycaret/pycaret: An open-source, low-code machine learning library in Python 
+  https://pytechsummit.pl/ 
 
-9. 	  https://pola-rs.github.io/polars-book/user-guide/introduction.html 
- Introduction - Polars - User Guide 
+5. A new interaction for multi-line pull request comments | GitHub Changelog 
+
+  https://github.blog/changelog/2020-02-21-a-new-interaction-for-multi-line-pull-request-comments/ 
+
+6. PyCharm: Turning selection to multiple cursors per line - Stack Overflow 
+
+  https://stackoverflow.com/questions/29719274/pycharm-turning-selection-to-multiple-cursors-per-line 
+
+7. GitHub - myint/unify: Modifies strings to all use the same quote where possible 
+
+  https://github.com/myint/unify 
+
+8. GitHub - pycaret/pycaret: An open-source, low-code machine learning library in Python 
+
+  https://github.com/pycaret/pycaret 
+
+9. Introduction - Polars - User Guide 
+
+  https://pola-rs.github.io/polars-book/user-guide/introduction.html 
 

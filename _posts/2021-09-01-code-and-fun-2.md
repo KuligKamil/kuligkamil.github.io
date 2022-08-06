@@ -12,24 +12,31 @@ Code&Fun:
 
 ---
 
-1. 	 https://docs.microsoft.com/pl-pl/typography/font-list/segoe-ui 
- Segoe UI font family - Typography | Microsoft Docs 
+1. Segoe UI font family - Typography | Microsoft Docs 
 
-2. 	 https://crontab.guru/ 
- Crontab.guru - The cron schedule expression editor 
+ https://docs.microsoft.com/pl-pl/typography/font-list/segoe-ui 
 
-3. 	 https://stackoverflow.com/questions/48770542/what-is-the-difference-between-save-a-pandas-dataframe-to-pickle-and-to-csv 
- python - What is the difference between save a pandas dataframe to pickle and to csv? - Stack Overflow 
+2. Crontab.guru - The cron schedule expression editor 
 
-4. 	 https://docs.pymc.io/ 
- Learn PyMC & Bayesian modeling — PyMC 4.1.4 documentation 
+ https://crontab.guru/ 
 
-5. 	 https://stackoverflow.com/a/62222676 
- python - What is the difference between save a pandas dataframe to pickle and to csv? - Stack Overflow 
+3. python - What is the difference between save a pandas dataframe to pickle and to csv? - Stack Overflow 
 
-6. 	 https://stackoverflow.com/questions/48770542/what-is-the-difference-between-save-a-pandas-dataframe-to-pickle-and-to-csv/62222676#62222676 
- python - What is the difference between save a pandas dataframe to pickle and to csv? - Stack Overflow 
+ https://stackoverflow.com/questions/48770542/what-is-the-difference-between-save-a-pandas-dataframe-to-pickle-and-to-csv 
 
-7. 	 https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z 
- Kids who grew up with search engines could change STEM education forever - The Verge 
+4. Learn PyMC & Bayesian modeling — PyMC 4.1.4 documentation 
+
+ https://docs.pymc.io/ 
+
+5. python - What is the difference between save a pandas dataframe to pickle and to csv? - Stack Overflow 
+
+ https://stackoverflow.com/a/62222676 
+
+6. python - What is the difference between save a pandas dataframe to pickle and to csv? - Stack Overflow 
+
+ https://stackoverflow.com/questions/48770542/what-is-the-difference-between-save-a-pandas-dataframe-to-pickle-and-to-csv/62222676#62222676 
+
+7. Kids who grew up with search engines could change STEM education forever - The Verge 
+
+ https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z 
 
