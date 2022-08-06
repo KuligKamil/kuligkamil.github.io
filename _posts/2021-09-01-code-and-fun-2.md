@@ -1,3 +1,7 @@
+---
+tag: code&fun links
+category: code&fun
+---
 # Code and Fun \#2
 
 Every Tuesday, I meet with my colleagues to Code&Fun. This is a monthly links collection. 
