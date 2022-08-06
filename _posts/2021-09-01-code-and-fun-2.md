@@ -13,16 +13,16 @@ Code&Fun:
 ---
 
 1. Segoe UI font family - Typography \| Microsoft Docs  
-https://docs.microsoft.com/pl-pl/typography/font-list/segoe-ui
+[https://docs.microsoft.com/pl-pl/typography/font-list/segoe-ui](https://docs.microsoft.com/pl-pl/typography/font-list/segoe-ui)
 2. Crontab.guru - The cron schedule expression editor  
-https://crontab.guru/
+[https://crontab.guru/](https://crontab.guru/)
 3. python - What is the difference between save a pandas dataframe to pickle and to csv? - Stack Overflow  
-https://stackoverflow.com/questions/48770542/what-is-the-difference-between-save-a-pandas-dataframe-to-pickle-and-to-csv
+[https://stackoverflow.com/questions/48770542/what-is-the-difference-between-save-a-pandas-dataframe-to-pickle-and-to-csv](https://stackoverflow.com/questions/48770542/what-is-the-difference-between-save-a-pandas-dataframe-to-pickle-and-to-csv)
 4. Learn PyMC & Bayesian modeling — PyMC 4.1.4 documentation  
-https://docs.pymc.io/
+[https://docs.pymc.io/](https://docs.pymc.io/)
 5. python - What is the difference between save a pandas dataframe to pickle and to csv? - Stack Overflow  
-https://stackoverflow.com/a/62222676
+[https://stackoverflow.com/a/62222676](https://stackoverflow.com/a/62222676)
 6. python - What is the difference between save a pandas dataframe to pickle and to csv? - Stack Overflow  
-https://stackoverflow.com/questions/48770542/what-is-the-difference-between-save-a-pandas-dataframe-to-pickle-and-to-csv/62222676#62222676
+[https://stackoverflow.com/questions/48770542/what-is-the-difference-between-save-a-pandas-dataframe-to-pickle-and-to-csv/62222676#62222676](https://stackoverflow.com/questions/48770542/what-is-the-difference-between-save-a-pandas-dataframe-to-pickle-and-to-csv/62222676#62222676)
 7. Kids who grew up with search engines could change STEM education forever - The Verge  
-https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z
+[https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z)
