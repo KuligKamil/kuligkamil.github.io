@@ -41,9 +41,10 @@ KK
 * TODO: article: why I hate string in code
 * TODO: [SPIKE][Python] automation typing when write code
 * TODO: [Python] how work __get_attributes__, __dict__
-* TODO Use AI, chatgpt to help me on my write skillset in english
    
 <img width="496" alt="image" src="https://github.com/KuligKamil/kuligkamil.github.io/assets/13277748/daaadaa6-09bd-4eff-8186-272247bde496">
+
+* TODO Use AI, chatgpt to help me on my write skillset in english
 
 * TODO: better work on blog
   *  maybe create or find extension to show changes correct for example this sign "|" change change line in to table in jekyll engine 
