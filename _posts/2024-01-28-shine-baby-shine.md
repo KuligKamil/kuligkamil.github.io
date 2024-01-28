@@ -14,11 +14,30 @@ Love,
 KK
 
 ## ideas
-* TODO: article: Why use ORMS are awesome
-  * easier to maintain
-  * to work with db, faster
-  * each db use
-  * strings are easy to screw up, prone to errors
+* TODO: article: Why use ORMS are awesome 
+* (thanks chatgpt for couple some points, to get draftg),
+* But with examples with code 
+  * Agenda:
+    1. **Abstraction of Database Complexity:** ORMs provide a high-level abstraction over database operations, allowing data scientists to focus on analysis without dealing with intricate SQL queries.
+
+    2. **Rapid Development:** ORMs expedite development by eliminating the need for manual SQL code, enabling data teams to iterate quickly on projects.
+
+    3. **Code Maintainability:** ORMs enhance code readability and maintainability, as they use object-oriented programming principles, making it easier for data scientists to collaborate and understand each other's code.
+
+    4. **Cross-Database Compatibility:** ORMs abstract away database-specific syntax, facilitating smoother transitions between different database systems and reducing compatibility issues for data science projects.
+
+    5. **Query Optimization:** Some ORMs automatically optimize queries, aiding data scientists in writing efficient code without delving into the intricacies of query optimization.
+
+    6. **Object-Relational Mapping:** ORMs map database tables to objects, providing a natural and intuitive way for data scientists to interact with and manipulate data within their programming language of choice.
+
+    7. **Reduced Boilerplate Code:** ORMs reduce the amount of boilerplate code needed for database interactions, streamlining the development process for data science teams.
+
+    8. **Integration with Frameworks:** Many ORMs seamlessly integrate with popular frameworks, simplifying the process of incorporating data science functionality into web applications or other software projects.
+
+    9. **Version Control:** ORMs facilitate version control for database schema changes, enabling data teams to track and manage database modifications more efficiently.
+
+    10. **Community Support:** Widely adopted ORMs often have large and active communities, providing data scientists with access to a wealth of resources, tutorials, and solutions to common challenges.
+
 * TODO: article: why I hate string in code
 * TODO: [SPIKE][Python] automation typing when write code
 * TODO: [Python] how work __get_attributes__, __dict__
