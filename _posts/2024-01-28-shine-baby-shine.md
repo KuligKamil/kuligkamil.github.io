@@ -1,4 +1,4 @@
-# {title}
+# Shine baby, shine
 
 Dear Kamil, 
 
@@ -45,6 +45,7 @@ KK
 
 
 ## achievements
+[X] another day of blogging, 3!
 [X] write draft for article "Why Embracing Systematic Conference Attendance Is a Game-Changer"
 [X] [WORK] prepare for monday meeting about refactor code, plan it, create some summary, notes
   * prepare process, list of task when you refactor some code, 
@@ -98,10 +99,6 @@ lucky_number = 7
 prove_is_not_None_is_unessesary(lucky_number)
 """
 
-
-
-
-
 [ ] [WORK] prepare for tuesday meeting about refactor code, plan it, create some summary
 [ ] get dirty hands with pandas
 
@@ -109,6 +106,3 @@ prove_is_not_None_is_unessesary(lucky_number)
 * [NO IT] how to shine
 * [NO IT] how change chandelier
 
-## inspiration
-
-## finds
