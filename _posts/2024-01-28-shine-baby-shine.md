@@ -61,15 +61,15 @@ KK
   * of my own free and uncoerced will
   * I'm disappointed in myself
   * bad Kamil, bad
-* I was good ligher today. Are you shining for yourself or me?
+* I was good ligher today. "Are you shining for yourself or me? Yes"
   
 ![77026A99-626F-4F80-A5E9-52D64C99F4EB](https://github.com/KuligKamil/kuligkamil.github.io/assets/13277748/14f16d38-6ee0-43cc-9bea-edadeb4c26fb)
 
 
 ## achievements
-[X] another day of blogging, 3!
-[X] write draft for article "Why Embracing Systematic Conference Attendance Is a Game-Changer"
-[X] [WORK] prepare for monday meeting about refactor code, plan it, create some summary, notes
+- [X] another day of blogging, 3!
+- [X] write draft for article "Why Embracing Systematic Conference Attendance Is a Game-Changer"
+- [X] [WORK] prepare for monday meeting about refactor code, plan it, create some summary, notes
   * prepare process, list of task when you refactor some code, 
     * first e2e test, if it's not enough do more, if you want to edit structure,
     * do integration for each endpoint 
