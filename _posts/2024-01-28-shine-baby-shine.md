@@ -51,9 +51,11 @@ KK
   * maybe run blog locally
 * TODO: create medium post
 * TODO: create dev.to post
+* TODO: simple PWA app for shortcuts with filters
   
 ## challlenges
 * day have only 24 hours
+* I went to bed too late
 * It was hard to start working
 * I work on Sunday
   * without any order 
