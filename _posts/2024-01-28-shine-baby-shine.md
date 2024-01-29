@@ -40,6 +40,9 @@ KK
 
 * TODO: article: why I hate string in code
 * TODO: [SPIKE][Python] automation typing when write code
+  *  * maybe add typing, mypy? alternative
+      * in vscode, Inlay Type Hints https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2022-release/#inlay-type-hints
+      * in pycharm, Inlay Hints https://www.jetbrains.com/help/pycharm/inlay-hints.html#enable_inlay_hints
 * TODO: [Python] how work __get_attributes__, __dict__
    
 <img width="496" alt="image" src="https://github.com/KuligKamil/kuligkamil.github.io/assets/13277748/daaadaa6-09bd-4eff-8186-272247bde496">
@@ -92,7 +95,7 @@ KK
   * add linter & code formater like ruff
     * solve many MY struggles to watch this code XD NAZI coder XD
   * get out of for's in pandas part of code
-  * [SPIKE]columns like pandas class, enums, if name change, we will change in one place?
+  * [SPIKE] columns like pandas class, enums, if name change, we will change in one place?
   * start to use Pokemon Exception Handling, "Pokemon - gotta catch 'em all!!!" 
   * are comments nessesary? 
     * maybe sometimes, maybe name of variables is not perfect, not fit
@@ -102,7 +105,8 @@ KK
   * don't use "from super_fantstic_lib import *"
   * prove_is_not_None_is_unessesary
 
-"""python
+
+```python
 def prove_is_not_None_is_unessesary(argument):
   print(argument, type(argument))
   if argument:
@@ -121,7 +125,8 @@ prove_is_not_None_is_unessesary(my_social_life)
 
 lucky_number = 7 
 prove_is_not_None_is_unessesary(lucky_number)
-"""
+```
+
 
 ## learning 
 * [NO IT] how to shine

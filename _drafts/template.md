@@ -1,6 +1,6 @@
 # {title}
 
-## idea
+## ideas
 
 ## challlenges
 
