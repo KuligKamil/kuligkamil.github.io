@@ -1,5 +1,9 @@
 # {title}
 
+
+Dear God
+
+
 ## ideas
 
 ## challlenges
@@ -19,3 +23,8 @@ or
 ## inspiration
 
 ## finds
+
+Thanks for reading this ❤️
+
+Love,
+KK

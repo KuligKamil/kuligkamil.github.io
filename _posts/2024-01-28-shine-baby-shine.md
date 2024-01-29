@@ -10,6 +10,8 @@ Remember that.
 * get some balance.
   * Start move more. Come back for 1 hour walking a day. 
 * if you stumble, miss some day of blog, get up!
+
+
 Love,
 KK
 
