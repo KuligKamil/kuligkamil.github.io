@@ -1,5 +1,6 @@
 # Me gusta jugar a la "Siesta Roulette"
 
+
 "It's hard to believe 
 
 how far 
@@ -32,6 +33,9 @@ Keep going, bro. 🤜🏿🤛🏿
 * TODO: try Obsidian 
   * the private and flexible writing app that adapts to the way you think
   * https://obsidian.md/
+
+![image](https://github.com/KuligKamil/kuligkamil.github.io/assets/13277748/6058b8e0-26af-43d8-b34c-c2f504d1d83a)
+
   
 ## challlenges
 * have some fun with "siesta roulette", which comes from unwise sleep management.
@@ -40,15 +44,19 @@ Keep going, bro. 🤜🏿🤛🏿
   * working after normal work hours
   * bad Kamil, bad
 
+![image](https://github.com/KuligKamil/kuligkamil.github.io/assets/13277748/77f502e1-902a-4b03-ab9d-1b91d55e6b5e)
+
+
 
 ## achievements
 - [X] wake up at 8AM!
-- [X] I did some walk with my GF, ~1 hour on today afternoon
 - [X] got dirty hands with pandas, great success, I edited some file with pandas at work, to update some data from csv to db, nothing fancy but good start 
   * work with pandas is less painfull then I rememberd 4 years ago
   * work on jupyther notebook in vscode is awesome
   * black formater is owrking there 💪
+- [X] I did some walk with my GF, ~1 hour on today afternoon
 
+![7d889f87-9e81-4244-a369-c3fcd462a1e3](https://github.com/KuligKamil/kuligkamil.github.io/assets/13277748/96a12416-e296-4cd1-91af-2fdcef9155ad)
 
 ## learning 
 * [AWS] Lambdas
@@ -69,7 +77,9 @@ Keep going, bro. 🤜🏿🤛🏿
 
 
 ```python 
-# WIP need to change jupyther code to script python file
+# WIP:
+# TODO: need to change jupyther code to script python file
+# TODO: anonymize data
 
 ```
 
