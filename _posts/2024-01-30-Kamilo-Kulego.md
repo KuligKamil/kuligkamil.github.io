@@ -56,8 +56,10 @@ def test_actual_expected():
 * [Pandas] not big fun of argument in some pandas function, inplace=True
   
 ## inspiration
-* My Product Owner from one of the project write some code. I integrate it today. It's not clean code, but the most important staff it's working.
-Did you ever had PO who write code?
+* My Product Owner from one of the project write some code.
+ * I integrate it today.
+ * It's not clean code, but the most important staff it's working.
+ * Did you ever had PO who write code?
 
 
 
