@@ -2,19 +2,21 @@
 
 Dear Kamil, 
 
-Remember that. 
-* Success is a process not outcomes of goals. Focus on process.
-  * But deviver staff.
+Remember this. 
+* Success is a process not outcomes of goals. Focus on the process.
+  * But deliver staff.
 * don't compare to others. 
   * But do your staff systematic
 * get some balance.
-  * Start move more. Come back for 1 hour walking a day. 
-* if you stumble, miss some day of blog, get up!
+  * Start moving more. Come back to walking for per hour a day. 
+* if you stumble, miss a day of blogging, get up!
+
+
 Love,
 KK
 
 ## ideas
-* TODO: article: Why use ORMS are awesome 
+* TODO: article: Why using ORMS are awesome 
   * (thanks chatgpt for couple some points, to get draftg),
   * But with examples with code 
     * Agenda:
@@ -39,7 +41,10 @@ KK
       10. **Community Support:** Widely adopted ORMs often have large and active communities, providing data scientists with access to a wealth of resources, tutorials, and solutions to common challenges.
 
 * TODO: article: why I hate string in code
-* TODO: [SPIKE][Python] automation typing when write code
+* TODO: [SPIKE][Python] automation typing when writing code
+  *  * maybe add typing, mypy? alternative
+      * in vscode, Inlay Type Hints https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2022-release/#inlay-type-hints
+      * in pycharm, Inlay Hints https://www.jetbrains.com/help/pycharm/inlay-hints.html#enable_inlay_hints
 * TODO: [Python] how work __get_attributes__, __dict__
    
 <img width="496" alt="image" src="https://github.com/KuligKamil/kuligkamil.github.io/assets/13277748/daaadaa6-09bd-4eff-8186-272247bde496">
@@ -47,14 +52,14 @@ KK
 * TODO Use AI, chatgpt to help me on my write skillset in english
 
 * TODO: better work on blog
-  *  maybe create or find extension to show changes correct for example this sign "|" change change line in to table in jekyll engine 
+  *  maybe create or find extension to show changes correct for example this sign '|' change change line in to table in jekyll engine 
   * maybe run blog locally
 * TODO: create medium post
 * TODO: create dev.to post
 * TODO: simple PWA app for shortcuts with filters
   
 ## challlenges
-* day have only 24 hours
+* day has only 24 hours
 * I went to bed too late
 * It was hard to start working
 * I work on Sunday
@@ -79,8 +84,8 @@ KK
     * now start refactor, try write code for 
   * maybe start to use ORM like SQLAlchemy? 
   * maybe too much OOP code, best is gold rule, to use some OOP and functionl
-  * when use OOP, not use power of it, polymorphism, and design patterns
-    * to find polimorphism find if-ology
+  * when use OOP, you need to use power of it, polymorphism, and design patterns
+    * to find polymorphism find if-ology
       * not forget that could be overengineering,  
     * why we need main class? maybe we could do everything more functional?
     * easier to tests function if it's not on huge main class with a lot of attributes
@@ -89,39 +94,55 @@ KK
   * be more DRY, Don't Repeat Yourself, 
     * functions have arguments!, delete similar functions, maybe if, maybe polymorphism  
   * add more in readme, how to start use it, how to start develop it
-  * add linter & code formater like ruff
-    * solve many MY struggles to watch this code XD NAZI coder XD
+  * add linter & code formatter like ruff
+    * solve many MY struggles to look at this code XD NAZI coder XD
   * get out of for's in pandas part of code
-  * [SPIKE]columns like pandas class, enums, if name change, we will change in one place?
+  * [SPIKE] columns like pandas class, enums, if name change, we will change in one place?
   * start to use Pokemon Exception Handling, "Pokemon - gotta catch 'em all!!!" 
-  * are comments nessesary? 
-    * maybe sometimes, maybe name of variables is not perfect, not fit
+  * are comments necessary? 
+    * maybe sometimes, maybe variable names are not perfect, not fitting
     * maybe add typing, mypy? alternative
       * in vscode, Inlay Type Hints https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2022-release/#inlay-type-hints
       * in pycharm, Inlay Hints https://www.jetbrains.com/help/pycharm/inlay-hints.html#enable_inlay_hints
   * don't use "from super_fantstic_lib import *"
   * prove_is_not_None_is_unessesary
 
-"""python
+
+```python
+
 def prove_is_not_None_is_unessesary(argument):
+
   print(argument, type(argument))
+  
   if argument:
+  
     print("Not None")
+  
   else:
+  
     print("None")
 
+  
   if argument is not None:
+  
     print("Not None")
+  
   else:
+  
     print("None")
 
 
 my_social_life = None
+
 prove_is_not_None_is_unessesary(my_social_life)
 
+
 lucky_number = 7 
+
 prove_is_not_None_is_unessesary(lucky_number)
-"""
+
+```
+
 
 ## learning 
 * [NO IT] how to shine
