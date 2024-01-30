@@ -33,6 +33,11 @@ Keep going, bro. 🤜🏿🤛🏿
 * TODO: try Obsidian 
   * the private and flexible writing app that adapts to the way you think
   * https://obsidian.md/
+* TODO: change all links to be links that you could click & will open in another tab, mardown baby
+* TODO: after 30 days of blogging, create podcast ~15 minutes every day to read all staff what I made in the blog first step do podcast, live on Youtube without face, only share the screen
+  * after 30 next days of success podcast do short lives of that on YouTube.
+  * Title: "Morning Daily Confession". I reserve the copyrights.
+  * Every day at 6AM. Crazy hour. But come on. XD If I will do this challange, any anything is possible.
 
 ![image](https://github.com/KuligKamil/kuligkamil.github.io/assets/13277748/6058b8e0-26af-43d8-b34c-c2f504d1d83a)
 
