@@ -2,20 +2,29 @@
 
 
 Dear Guys, 
+
 I have a confession to make.
+
 When I was young, about 9-10 years old. I had a trauma, to write something.
+
 Teacher from native language told my mom and me that
+
 I will never be a writer.  "You don't have the talent."
+
 
 AND NOW WHAT? WHAT YOU SAID BITCH!?
 
 5 DAYS IN A ROW!
+
 I AM UNSTOPPABLE!
 
-Guys,
+
 Words can hurt. They can do more damage than physical pain.
+
 Watch what you say.
+
 Don't worry about what others have said.
+
 No hard feelings towards the teacher. I understand now. You were not a good teacher.
 
 
@@ -55,4 +64,5 @@ Did you ever had PO who write code?
 Thanks for reading this ❤️
 
 Love,
+
 Kamillo Kulego
