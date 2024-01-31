@@ -1,4 +1,3 @@
-- [ ] [WORK] prepare for tuesday meeting about refactor code, plan it, create some summary
 - [ ] do side project progress with backend API
 - [ ] dev.to + medium, write Hello POST about pycon,
 - [ ] run blog locally before build app, manually test if everything looks good
