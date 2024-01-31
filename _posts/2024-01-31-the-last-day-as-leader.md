@@ -56,6 +56,6 @@ I always:
 
 Maybe in future will be chaince to try again as a leader.
 
-Love your friend,
+Thanks againg my dear friends,
 
 Kamil
