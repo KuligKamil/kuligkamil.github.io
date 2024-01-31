@@ -1,6 +1,7 @@
 # The last day as a Leader
 
 Dear Team.
+
 Today is my officially the last day as a leader of the wonderful people, the last they as Fullstack Developer Leader.
 
 The main reason why I want to leave the role of the leader was the lack of development, miss programming, the pressure and the conditions in which the meetings were held. 
@@ -22,21 +23,25 @@ GUYS! Respect for every good leader who works, tries the best for his people, co
 About good leaders & first person I want to thank, the person I own a lot.
 
 
-Michal Korzycki, without you, your example, your wisdom, your patience with me I will never be what I am now.
+Michal Korzycki, without you, your example, your wisdom, lessons, your patience with me I will never be what I am now.
+
+![F8B3A013-9910-417D-B0A7-4D7F823AFE0E_1_105_c](https://github.com/KuligKamil/kuligkamil.github.io/assets/13277748/82289703-d5f2-4e9f-8673-2250d8a57a70)
+
 
 Next I would like to thank fantastic developers, programmers with whom I could guide, support, motivate, push to be better.
 
 Zofia, Yarek, Sinem, Maciej, Adam, Marcin, Taras, Liza, Wojciech (UX), Arvind
 
-Thank you for putting up with me & giving me the opportunity to share a part of your IT journey with you.
+Thank you for putting up with me, feedbacks, support, push & giving me the opportunity to share a part of your IT journey with you.
 
 I always:
 * try to be a servant leader. Of course, I have never been perfect. But I hope you will notice that I have always tried.
 * had a dream to create a place where people want to work, grow & add value to the company.
 
 
-**Remember that my phone, my mail, my home and my heart has always been, is and will always be open.**
+**Remember that my phone, my mail, my home and my heart has always been, is and will always be open for you.**
 
+![A0EA326E-0AC3-4224-94C9-74AF54714A7E_1_105_c](https://github.com/KuligKamil/kuligkamil.github.io/assets/13277748/f003752a-ce3c-4765-8d6b-4abe9d796778)
 
 ## challlenges, achievements
 * write this down & post it
@@ -52,4 +57,5 @@ I always:
 Maybe in future will be chaince to try again as a leader.
 
 Love your friend,
+
 Kamil
