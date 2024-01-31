@@ -4,7 +4,7 @@ Dear Team.
 
 Today is my officially the last day as a leader of the wonderful people, the last they as Fullstack Developer Leader.
 
-The main reason why I want to leave the role of the leader was the lack of development, miss programming, the pressure and the conditions in which the meetings were held. 
+The main reason why I leave the role of the leader was the lack of development, miss programming, the pressure and the conditions in which the meetings were held. 
 
 For my mental state and not to get depression I resign. 
 Maybe I was too weak, too transparent or too team-oriented. But I don't regret my decisions or sometimes show my weakness.
