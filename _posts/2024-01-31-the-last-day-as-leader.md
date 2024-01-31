@@ -2,7 +2,7 @@
 
 Dear Team.
 
-Today is my officially the last day as a leader of the wonderful people, the last they as Fullstack Developer Leader.
+Today is my officially the last day as a leader of the wonderful people, the last day as Fullstack Developer Leader.
 
 The main reason why I leave the role of the leader was the lack of development, miss programming, the pressure and the conditions in which the meetings were held. 
 
@@ -12,7 +12,7 @@ Just look at my team and how much they have developed. What positions they get a
 
 I didn't lose, but I grew up with this decision. It was not easy.
 
-Once of my colleagues told me that he tried a very similar role and he will never do it again. 
+One of my colleagues told me once that he tried a very similar role and he will never do it again. 
 I didn't understand at the beginning. 
 
 But now I do. After more than 2 years I understand. It's more than work. It's a huge responsibility.
@@ -53,7 +53,7 @@ I always:
 ## finds
 * [Python] py-spy https://www.youtube.com/watch?v=p8s2fzqA07s&ab_channel=anthonywritescode
 
-Maybe in future will be chaince to try again as a leader.
+The only thing that is certain is change.
 
 Thanks againg my dear friends,
 
