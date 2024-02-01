@@ -1,0 +1,63 @@
+New year, new role
+
+Dear Boss,
+
+After 5 long years I am changed team & position. 
+From E2E Digital Customer Relationship Advanced & AI in Global Marketing to Advence Analitycs in Finance Intel Operations. 
+From Fullstack Developer Leader to Machine Learning Engineer.
+Thanks Adam Przadka & Michal Taraszewski for giving me this opportunitie.
+I am grateful for trust in my. I will not let you down.
+
+I would like to share my challanges on new position.
+
+responsiblities
+* quide & guard in write clean, quality code
+* support data governence
+* develop and spread automation & workflow
+
+toolset:
+* pandas
+* pyspark
+
+* databricks
+* databricks workflow
+* mlflow
+* pytests for datascience
+
+git:
+* convention of "dirty" commit, presents
+* github
+  * design flow, dev -> preprod -> prod, 
+    * convention of multi-dev environments to tests on env
+  * branch, commit governence 
+  * monitoring commits&branches, use github cli
+    * working for github enterprise https://docs.github.com/en/enterprise-cloud@latest/github-cli/github-cli/about-github-cli
+    * installations https://github.com/cli/cli#installation, 
+      * wsl https://www.windowscentral.com/how-use-github-cli-app-windows-and-wsl
+  * forcing people on commits&branches convention git hooks https://itnext.io/using-git-hooks-to-enforce-branch-naming-policy-ffd81fa01e5e
+* databricks + github https://docs.databricks.com/en/repos/index.html
+
+## ideas
+* TODO: post about it "data sajentiści to artysci" - data scienece guys are artists
+
+## challlenges
+* move to the office
+* today I go sleep 12AM!
+
+## achievements
+- [X] 7 days of blogging 
+
+## learning 
+* [databrics][shorcut] Python code formatting in databricks, black: Ctr + Shift + F
+  * https://www.databricks.com/blog/2023/01/30/introducing-upgrades-databricks-notebooks-new-editor-python-formatting-and-more
+
+## inspiration
+
+## finds
+
+
+Thanks for reading this ❤️
+
+Love,
+KK
+
