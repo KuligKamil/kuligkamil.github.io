@@ -15,6 +15,13 @@ It′s Friday then
 
 Then Saturday, Sunday (what?)"
 
+
+## ideas
+* [TODO] Free personality test, type descriptions, relationship and career advice. https://www.16personalities.com/
+*  [TODO] CI/CD for Machine Learning (GitOps)
+  * https://www.wandb.courses/courses/ci-cd-for-machine-learning
+* blue print for career
+* https://www.linkedin.com/posts/mike-gallardo-62a55b29_i-got-promoted-from-manager-to-director-in-activity-7157394458173403136-2vGe
 ## challlenges
 * access permissions for databricks, data - new guy
 * struggle with expense management for Vue Amsterdam
@@ -29,7 +36,9 @@ Then Saturday, Sunday (what?)"
 ## finds
 * [TODO] CI/CD for Machine Learning (GitOps)
   * https://www.wandb.courses/courses/ci-cd-for-machine-learning
-  * Thanks Zibi. Zibi TOP <3 
+  * Thanks Zibi. Zibi TOP <3
+* Free personality test, type descriptions, relationship and career advice. https://www.16personalities.com/
+  * Thanks Slawek 
 * "I got promoted from Manager to Director in 6 months at Deel. Skipped the Senior Manager position. " blue print for career
   * thanks Mike Gallardo for sharing his strategy
   * thanks Zibi for sharing with me, ZIBI TOP <3
