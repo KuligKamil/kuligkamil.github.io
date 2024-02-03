@@ -6,7 +6,7 @@ wisdom for today:
 
 to share your 
 
-knowledge;  you
+knowledge; you
 
 just need to be 
 
@@ -29,8 +29,13 @@ Gracias Miguel
   * tip it's important for programmer when join new project, new team 
   * thanks thath it's easier to communicae, understand problems, issues & goals
 * TODO: change with script links to be correct in markdown
+* TODO: hastags posts
+
+![image](https://github.com/KuligKamil/kuligkamil.github.io/assets/13277748/284a10fb-078a-40ad-8569-34d09657ace7)
+
 
 ## achievements
+* [NO IT][SOCIAL] met with friends, got fantastic neon for birday, thanks Kasia&Darek ❤️ 
 * work on monday post on linkedin, what is my new job, official announcement
 * work on machine learning knowlage, work on dictionary from Bits of Data, PL channel https://www.youtube.com/@BitsofData
   * https://www.youtube.com/watch?v=weWmJ_LLaho&ab_channel=BitsofData
