@@ -12,14 +12,6 @@ Dear God
 
 ## learning 
 
-### [topic] {title}
-{details}
-
-or 
-
-* [topic] {title}
-  * details
-
 ## inspiration
 
 ## finds
@@ -27,4 +19,5 @@ or
 Thanks for reading this ❤️
 
 Love,
+
 KK
