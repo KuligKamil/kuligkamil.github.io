@@ -1,6 +1,6 @@
-# Perfection is enemy of good
+# Perfection is the enemy of good
 
-Sometimes if it's working is enough. 
+Sometimes, if "it works", it's enough. 
 
 ## challlenges
 * not play all night at Hogwarts Legacy
