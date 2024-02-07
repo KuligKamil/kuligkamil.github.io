@@ -2,7 +2,7 @@
 
 Sometimes, if "it works", it's enough. 
 
-## challlenges
+## challenges
 * not play all night at Hogwarts Legacy
 
 ## achievements

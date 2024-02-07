@@ -1,4 +1,5 @@
 - [ ] do side project progress with backend API
+- [ ] CI/CD for Machine Learning (GitOps) [https://www.wandb.courses/courses/ci-cd-for-machine-learning](https://www.wandb.courses/courses/ci-cd-for-machine-learning)
 - [ ] dev.to + medium, write Hello POST about pycon,
 - [ ] run blog locally before build app, manually test if everything looks good
 - [ ] automation, grep ideas + achievments not done to new day achivements, to plan next day
