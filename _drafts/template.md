@@ -6,7 +6,7 @@ Dear God
 
 ## ideas
 
-## challlenges
+## challenges
 
 ## achievements
 
