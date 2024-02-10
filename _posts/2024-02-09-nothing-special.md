@@ -6,7 +6,7 @@ Perhaps at times, I may not achieve success, but the entirety of the journey emb
 * [pyspark] go deeper with lazy evaluation, pyspark
 
 ## challanges
-- [X] 15th day of systematic public posts, every day, middle day of challanges
+- [X] 15th day of systematic public posts, every day - middle day of challange
 - [X] [work] understand & try to fix code to compare two data sources
       
 ## learning 
