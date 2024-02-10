@@ -1,6 +1,6 @@
 # Nothing Special
 
-Perhaps at times, I may not achieve success, but the entirety of the journey embodies success.
+Perhaps at today, I may not achieved success, but the entirety of the journey embodies success.
 
 ## ideas
 * [pyspark] go deeper with lazy evaluation, pyspark
