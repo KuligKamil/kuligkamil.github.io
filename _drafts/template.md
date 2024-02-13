@@ -10,9 +10,9 @@ Dear God
 
 ## achievements
 
-## learning 
+## learnings
 
-## inspiration
+## inspirations
 
 ## finds
 
