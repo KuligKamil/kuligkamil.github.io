@@ -9,3 +9,21 @@
    * maybe add typing, mypy? alternative
       * in vscode, Inlay Type Hints https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2022-release/#inlay-type-hints
       * in pycharm, Inlay Hints https://www.jetbrains.com/help/pycharm/inlay-hints.html#enable_inlay_hints
+weak ref
+
+garbage collector
+
+dynamic typing
+
+a = 'it is' 'a' 'one sentenece' 'one string'
+
+
+ 
+lru_cache: @property @cache, property_cacthced
+
+dependecy injection
+
+Command-Query Separation (CQS) 
+software design principle that separates the responsibilities of a method or function into two categories: commands and queries.
+Command query separation principles - French guy
+https://www.eventstore.com/cqrs-pattern
