@@ -24,8 +24,7 @@ Kamil
 
 ## learnings
 * pyspark: StructType, StructField, StringType
-*
-* convetion very similar to result version from alembic
+* convetion similar to result version from alembic
 
 ```python
 
