@@ -59,6 +59,12 @@ toolset:
   * SQLAlchemy + databricks https://docs.databricks.com/en/dev-tools/sqlalchemy.html#language-Cluster
 * pytest - without tests, don't believe it works.
   * write unit test for business logic, if you can't write, please use ChatGPT.
+* mlflow 
+ * docs: https://mlflow.org/docs/latest/index.html
+ * repo: https://github.com/mlflow/mlflow 
+* github actions
+ * docs: https://docs.github.com/en/actions
+
 * vscode/pycharm > jupyter/databricks notebook 
   * see not use variables
   * see more error & worning in code
@@ -69,11 +75,6 @@ toolset:
   * versioning
   * extensive extensions, more versatility
   * try use vscode + jupyter, try code & add, commit on .py file
-* mlflow 
- * docs: https://mlflow.org/docs/latest/index.html
- * repo: https://github.com/mlflow/mlflow 
-* github actions
- * docs: https://docs.github.com/en/actions
 
 ## best practices:
 * core best practices
