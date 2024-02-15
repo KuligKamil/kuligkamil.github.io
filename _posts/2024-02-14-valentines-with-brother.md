@@ -29,7 +29,8 @@ Kamuś
     * mostly in my cases we sue btree
     * [https://www.educative.io/answers/what-are-the-types-of-index-access-methods-in-postgresql](https://www.educative.io/answers/what-are-the-types-of-index-access-methods-in-postgresql)
     * [https://www.postgresql.org/docs/current/btree-behavior.html](https://www.postgresql.org/docs/current/btree-behavior.html)
-   
+   * add indexes in pycharm [https://www.jetbrains.com/help/pycharm/indexes.html#create-an-index](https://www.jetbrains.com/help/pycharm/indexes.html#create-an-index)
+
 
 
 ## finds
