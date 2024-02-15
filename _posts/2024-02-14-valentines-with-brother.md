@@ -26,7 +26,7 @@ Kamuś
     * maintenance: regular maintenance, such as index reorganization and rebuilding, is important to ensure optimal performance as data changes over time.
     * over-indexing: creating too many indexes can lead to diminishing returns and increased storage requirements.
   * indexes types of index access methods in postgresql
-    * mostly in my cases we sue btree
+    * mostly in my cases used "btree"
     * [https://www.educative.io/answers/what-are-the-types-of-index-access-methods-in-postgresql](https://www.educative.io/answers/what-are-the-types-of-index-access-methods-in-postgresql)
     * [https://www.postgresql.org/docs/current/btree-behavior.html](https://www.postgresql.org/docs/current/btree-behavior.html)
    * add indexes in pycharm [https://www.jetbrains.com/help/pycharm/indexes.html#create-an-index](https://www.jetbrains.com/help/pycharm/indexes.html#create-an-index)
