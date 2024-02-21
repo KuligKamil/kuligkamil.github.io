@@ -3,8 +3,6 @@ layout: page
 title: about me
 ---
 
-<h3> About me </h3>
-
 <p> 
   💻 programmer, <br>
 
