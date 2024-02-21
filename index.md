@@ -1,5 +1,11 @@
-Here you can say lots of fun things about your site.
+## About me
 
-Maybe say a some things about yourself.
+💻 programmer,
+🌟✨🏆 leader,
+🐍 python lover,
+🎮 gamer,
+🕺 king of disco,
+⚽️🏀🏈🥊 love sport in every form,
+🇵🇱 from Poland
 
-Or maybe what you plan to blog about.
+Mostly from monday to friday I create some blog posts, logs posts.
