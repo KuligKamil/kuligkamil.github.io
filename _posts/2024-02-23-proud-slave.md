@@ -19,3 +19,15 @@ Tauri
 https://tauri.app/
 
 https://github.com/tauri-apps/tauri
+
+thinking about
+
+https://mailchimp.com/pricing/marketing/?currency=EUR
+
+
+
+http://jekyllthemes.org/themes/moonwalk/
+
+https://the-mvm.github.io/ 
+
+close work laptop 3 days around 6PM
