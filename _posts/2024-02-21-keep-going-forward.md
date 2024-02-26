@@ -32,6 +32,7 @@ Rocky Balboa by Sylvester Stallone
   * observe total memory used, to find perfect parameters
     * example parameters: gc.set)threshoild(10_000, 10*5, 30*5)
   * module for gc: [https://docs.python.org/3/library/gc.html](https://docs.python.org/3/library/gc.html)
+  * [https://github.com/trallnag/prometheus-fastapi-instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator)
 * python:
   * there are exists a lot of implementation of python [https://wiki.python.org/moin/PythonImplementations](https://wiki.python.org/moin/PythonImplementations)
   * CPython, default intepreter is write in C [https://github.com/python/cpython](https://github.com/python/cpython)
