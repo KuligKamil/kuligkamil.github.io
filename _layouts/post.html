@@ -29,7 +29,7 @@ layout: default
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
   <div id="comments"></div>
 
-  <form id="formForComments" onsubmit="submitFormFetch();">
+  <form id="formForComments" >
     <label for="name">Name:</label><br>
     <input type="text" id="name" name="entry.745975977" required><br><br>
     
@@ -42,29 +42,33 @@ layout: default
 <!--     <label for="posturl">Post URL:</label><br> -->
     <input type="hidden" id="posturl" name="entry.77902338"><br><br>
     
-    <button type="submit">Submit</button>
+    <button type="submit" id="submitButton">Submit</button>
   </form>
 </article>
 <script>
-    function submitFormFetch(event) {
+    document
+      .getElementById("submitButton")
+      .addEventListener("click", function (event) {
       event.preventDefault();
       var form = document.getElementById("formForComments");
       var data = new FormData(fetchForm)
-      fetch("https://docs.google.com/forms/u/0/d/e/1FAIpQLSch-3tL9nzlq9BOHW_Mf4rDNncNMbFRnsXRl675gmYWT1o5Ew/formResponse", {
-                 method: "post",
-                 body: data
-              })
-              .then((res) => {
-                 return res.text();
-              })
-              .then((txt) => {
-                 alert("Submit Success");
-              })
-              .catch((err) => {
-                 alert(err);
-              });
-           return false;
-    }
+    
+    fetch("https://docs.google.com/forms/u/0/d/e/1FAIpQLSch-3tL9nzlq9BOHW_Mf4rDNncNMbFRnsXRl675gmYWT1o5Ew/formResponse", {
+        method: "post",
+        body: data
+      })
+      .then((res) => {
+        return res.text();
+      })
+      .then((txt) => {
+        alert("Submit Success");
+      })
+      .catch((err) => {
+      alert(err);
+      });
+        return false;
+    });
+
     // Function to format the date and time from the data
     function formatDate(stringDate) {
         // Split the string into date and time parts
