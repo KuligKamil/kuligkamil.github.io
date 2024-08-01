@@ -46,7 +46,7 @@ layout: default
   
 </article>
 <script>
-        // Function to format the date and time from the data
+             // Function to format the date and time from the data
     function formatDate(stringDate) {
       
         // Split the string into date and time parts
@@ -106,6 +106,7 @@ layout: default
             const rows = csvText.trim().split('\n').map(row => row.split(','));
             // Get the container element for the comments
             const commentsContainer = document.getElementById('comments');
+            const tempDiv = document.createElement('div');
             // Loop through each row of the data
             rows.forEach(row => {
                 const date = formatDate(row[0]); // Format the date and time
@@ -117,9 +118,9 @@ layout: default
                 // Set the inner HTML of the div element
                 commentDiv.innerHTML = `<strong><a href="mailto:${email}">${name}</a></strong> <em>${date}</em> <p>${comment}</p>`;
                 // Append the div element to the comments container
-                commentsContainer.replaceChildren(commentDiv)
-                // commentsContainer.appendChild();
+                tempDiv.appendChild(commentDiv);
             });
+            commentsContainer.replaceChildren(tempDiv)
         })
         .catch(error => console.error('Error fetching data:', error)); // Handle any errors
       })
@@ -134,6 +135,7 @@ layout: default
             const rows = csvText.trim().split('\n').map(row => row.split(','));
             // Get the container element for the comments
             const commentsContainer = document.getElementById('comments');
+            const tempDiv = document.createElement('div');
             // Loop through each row of the data
             rows.forEach(row => {
                 const date = formatDate(row[0]); // Format the date and time
@@ -145,9 +147,9 @@ layout: default
                 // Set the inner HTML of the div element
                 commentDiv.innerHTML = `<strong><a href="mailto:${email}">${name}</a></strong> <em>${date}</em> <p>${comment}</p>`;
                 // Append the div element to the comments container
-                commentsContainer.replaceChildren(commentDiv)
-                // commentsContainer.appendChild();
+                tempDiv.appendChild(commentDiv);
             });
+            commentsContainer.replaceChildren(tempDiv)
         })
         .catch(error => console.error('Error fetching data:', error)); // Handle any errors
       });
@@ -155,13 +157,14 @@ layout: default
     });
 
     
-    fetch(csvUrl)
+      fetch(csvUrl)
         .then(response => response.text()) // Get the response text (data)
         .then(csvText => {
             // Split the data into rows and then into individual cells
             const rows = csvText.trim().split('\n').map(row => row.split(','));
             // Get the container element for the comments
             const commentsContainer = document.getElementById('comments');
+            const tempDiv = document.createElement('div');
             // Loop through each row of the data
             rows.forEach(row => {
                 const date = formatDate(row[0]); // Format the date and time
@@ -173,9 +176,9 @@ layout: default
                 // Set the inner HTML of the div element
                 commentDiv.innerHTML = `<strong><a href="mailto:${email}">${name}</a></strong> <em>${date}</em> <p>${comment}</p>`;
                 // Append the div element to the comments container
-                commentsContainer.replaceChildren(commentDiv)
-                // commentsContainer.appendChild();
+                tempDiv.appendChild(commentDiv);
             });
+            commentsContainer.replaceChildren(tempDiv)
         })
         .catch(error => console.error('Error fetching data:', error)); // Handle any errors
 </script>
