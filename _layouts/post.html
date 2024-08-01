@@ -46,34 +46,7 @@ layout: default
   
 </article>
 <script>
-    document
-      .getElementById("submitButton")
-      .addEventListener("click", function (event) {
-      event.preventDefault();
-      var fetchForm = document.getElementById("formForComments");
-      var data = new FormData(fetchForm)
-    
-    fetch("https://docs.google.com/forms/u/0/d/e/1FAIpQLSch-3tL9nzlq9BOHW_Mf4rDNncNMbFRnsXRl675gmYWT1o5Ew/formResponse", {
-        method: "post",
-        body: data
-      })
-      .then((res) => {
-        return res.text();
-      })
-      .then((txt) => {
-        console.log("Submit Success");
-        fetchForm.reset();
-        document.getElementById('posturl').value = window.location.href;
-      })
-      .catch((err) => {
-        console.log(err);
-         fetchForm.reset();
-        document.getElementById('posturl').value = window.location.href;
-      });
-        return false;
-    });
-
-    // Function to format the date and time from the data
+        // Function to format the date and time from the data
     function formatDate(stringDate) {
       
         // Split the string into date and time parts
@@ -108,6 +81,80 @@ layout: default
     // Construct the URL for fetching the data
     const csvUrl = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?tqx=out:csv&sheet=comments&tq=${sqlStatement}&headers=0`;
     // Fetch the data from the Google Sheets URL
+    document
+      .getElementById("submitButton")
+      .addEventListener("click", function (event) {
+      event.preventDefault();
+      var fetchForm = document.getElementById("formForComments");
+      var data = new FormData(fetchForm)
+    
+    fetch("https://docs.google.com/forms/u/0/d/e/1FAIpQLSch-3tL9nzlq9BOHW_Mf4rDNncNMbFRnsXRl675gmYWT1o5Ew/formResponse", {
+        method: "post",
+        body: data
+      })
+      .then((res) => {
+        return res.text();
+      })
+      .then((txt) => {
+        console.log("Submit Success");
+        fetchForm.reset();
+        document.getElementById('posturl').value = window.location.href;
+        fetch(csvUrl)
+        .then(response => response.text()) // Get the response text (data)
+        .then(csvText => {
+            // Split the data into rows and then into individual cells
+            const rows = csvText.trim().split('\n').map(row => row.split(','));
+            // Get the container element for the comments
+            const commentsContainer = document.getElementById('comments');
+            // Loop through each row of the data
+            rows.forEach(row => {
+                const date = formatDate(row[0]); // Format the date and time
+                const name = row[1]; // Get the name
+                const comment = row[2]; // Get the comment
+                const email = row[4]; // Get the email
+                // Create a new div element for the comment
+                const commentDiv = document.createElement('div');
+                // Set the inner HTML of the div element
+                commentDiv.innerHTML = `<strong><a href="mailto:${email}">${name}</a></strong> <em>${date}</em> <p>${comment}</p>`;
+                // Append the div element to the comments container
+                commentsContainer.replaceChildren(commentDiv)
+                // commentsContainer.appendChild();
+            });
+        })
+        .catch(error => console.error('Error fetching data:', error)); // Handle any errors
+      })
+      .catch((err) => {
+        console.log(err);
+         fetchForm.reset();
+        document.getElementById('posturl').value = window.location.href;
+        fetch(csvUrl)
+        .then(response => response.text()) // Get the response text (data)
+        .then(csvText => {
+            // Split the data into rows and then into individual cells
+            const rows = csvText.trim().split('\n').map(row => row.split(','));
+            // Get the container element for the comments
+            const commentsContainer = document.getElementById('comments');
+            // Loop through each row of the data
+            rows.forEach(row => {
+                const date = formatDate(row[0]); // Format the date and time
+                const name = row[1]; // Get the name
+                const comment = row[2]; // Get the comment
+                const email = row[4]; // Get the email
+                // Create a new div element for the comment
+                const commentDiv = document.createElement('div');
+                // Set the inner HTML of the div element
+                commentDiv.innerHTML = `<strong><a href="mailto:${email}">${name}</a></strong> <em>${date}</em> <p>${comment}</p>`;
+                // Append the div element to the comments container
+                commentsContainer.replaceChildren(commentDiv)
+                // commentsContainer.appendChild();
+            });
+        })
+        .catch(error => console.error('Error fetching data:', error)); // Handle any errors
+      });
+        return false;
+    });
+
+    
     fetch(csvUrl)
         .then(response => response.text()) // Get the response text (data)
         .then(csvText => {
@@ -126,7 +173,8 @@ layout: default
                 // Set the inner HTML of the div element
                 commentDiv.innerHTML = `<strong><a href="mailto:${email}">${name}</a></strong> <em>${date}</em> <p>${comment}</p>`;
                 // Append the div element to the comments container
-                commentsContainer.appendChild(commentDiv);
+                commentsContainer.replaceChildren(commentDiv)
+                // commentsContainer.appendChild();
             });
         })
         .catch(error => console.error('Error fetching data:', error)); // Handle any errors
