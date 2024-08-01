@@ -62,9 +62,13 @@ layout: default
       })
       .then((txt) => {
         console.log("Submit Success");
+        fetchForm.reset();
+        document.getElementById('posturl').value = window.location.href;
       })
       .catch((err) => {
         console.log(err);
+         fetchForm.reset();
+        document.getElementById('posturl').value = window.location.href;
       });
         return false;
     });
