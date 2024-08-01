@@ -34,16 +34,16 @@ layout: default
     <input type="text" id="name" name="entry.745975977" required><br><br>
     
     <label for="email">Email:</label><br>
-    <input type="email" id="email" name="entry.1599954840" required><br><br>
+    <input type="email" id="email" name="entry.1924141865" required><br><br>
     
     <label for="comment">Comment:</label><br>
     <textarea id="comment" name="entry.43696339" rows="4" cols="50"></textarea><br><br>
-    
-<!--     <label for="posturl">Post URL:</label><br> -->
+
     <input type="hidden" id="posturl" name="entry.77902338"><br><br>
     
     <button type="submit" id="submitButton">Submit</button>
   </form>
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSch-3tL9nzlq9BOHW_Mf4rDNncNMbFRnsXRl675gmYWT1o5Ew/viewform?embedded=true" width="640" height="721" frameborder="0" marginheight="0" marginwidth="0">Ładuję…</iframe>
 </article>
 <script>
     document
@@ -71,6 +71,7 @@ layout: default
 
     // Function to format the date and time from the data
     function formatDate(stringDate) {
+      
         // Split the string into date and time parts
         const dateTimeParts = stringDate.split(' ');
         const datePart = dateTimeParts[0]; // Date part like "7/12/2024"
