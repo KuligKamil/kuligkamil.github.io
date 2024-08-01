@@ -50,7 +50,7 @@ layout: default
       .getElementById("submitButton")
       .addEventListener("click", function (event) {
       event.preventDefault();
-      var form = document.getElementById("formForComments");
+      var fetchForm = document.getElementById("formForComments");
       var data = new FormData(fetchForm)
     
     fetch("https://docs.google.com/forms/u/0/d/e/1FAIpQLSch-3tL9nzlq9BOHW_Mf4rDNncNMbFRnsXRl675gmYWT1o5Ew/formResponse", {
