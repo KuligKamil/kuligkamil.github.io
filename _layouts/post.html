@@ -116,7 +116,7 @@ async function run() {
     var fetchForm = document.getElementById("formForComments");
     var data = new FormData(fetchForm)
   
-  fetch("https://docs.google.com/forms/u/0/d/e/1FAIpQLSeyCgTOx9wUv1MMaSaU55j_tL8Oty04QzcmzJDtwSlL8TzeMw/formResponse", {
+  await fetch("https://docs.google.com/forms/u/0/d/e/1FAIpQLSeyCgTOx9wUv1MMaSaU55j_tL8Oty04QzcmzJDtwSlL8TzeMw/formResponse", {
       method: "post",
       body: data
     })
