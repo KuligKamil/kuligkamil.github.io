@@ -91,7 +91,7 @@ function fetchComments(csvUrl) {
           const date = formatDate(row['c'][0]['f']); // Format the date and time
           const name = row['c'][1]['v']; // Get the name
           const comment = row['c'][2]['v']; // Get the comment
-          const email = row['c'][4]['v']; // Get the email
+          const email = row['c'][3]['v']; // Get the email
           // Create a new div element for the comment
           const commentDiv = document.createElement('div');
           // Set the inner HTML of the div element
