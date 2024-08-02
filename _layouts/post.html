@@ -76,7 +76,7 @@ function fetchComments(csvUrl) {
   fetch(csvUrl)
   .then(response => {
       // Split the data into rows and then into individual cells
-      const rows = response['rows']
+      const rows = response['table']['rows'];
       // Get the container element for the comments
       const commentsContainer = document.getElementById('comments');
       const tempDiv = document.createElement('div');
