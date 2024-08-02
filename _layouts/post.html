@@ -76,7 +76,9 @@ function fetchComments(csvUrl) {
   fetch(csvUrl)
   .then(response => response.text()) // Get the response text (data)
   .then(response => {
-      const responseJSON = JSON.parse(response.replace(/(^google\.visualization\.Query\.setResponse\(|\);$)/g,''));
+      console.log(response) 
+      const responseJSON = JSON.parse(response.replace(/(^\/*O_o*\/google\.visualization\.Query\.setResponse\(|\);$)/g,''));
+      // const responseJSON = JSON.parse(response.replace(/(^google\.visualization\.Query\.setResponse\(|\);$)/g,''));
       console.log(responseJSON);
       // Split the data into rows and then into individual cells
       const rows = responseJSON['table']['rows'];
