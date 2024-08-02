@@ -74,19 +74,18 @@ function formatDate(stringDate) {
 }
 function fetchComments(csvUrl) {
   fetch(csvUrl)
-  .then(response => response.text()) // Get the response text (data)
-  .then(csvText => {
+  .then(response => {
       // Split the data into rows and then into individual cells
-      const rows = csvText.trim().split('\n').map(row => row.split(','));
+      const rows = response['rows']
       // Get the container element for the comments
       const commentsContainer = document.getElementById('comments');
       const tempDiv = document.createElement('div');
       // Loop through each row of the data
       rows.forEach(row => {
-          const date = formatDate(row[0]); // Format the date and time
-          const name = row[1]; // Get the name
-          const comment = row[2]; // Get the comment
-          const email = row[4]; // Get the email
+          const date = formatDate(row['c'][0]['f']); // Format the date and time
+          const name = row['c'][1]['v']; // Get the name
+          const comment = row['c'][2]['v']; // Get the comment
+          const email = row['c'][4]['v']; // Get the email
           // Create a new div element for the comment
           const commentDiv = document.createElement('div');
           // Set the inner HTML of the div element
