@@ -106,7 +106,7 @@ document.getElementById('posturl').value = thisPageUrl;
 // Encode the SQL statement to be used in the URL
 const sqlStatement = encodeURIComponent(`SELECT A, C, D, E WHERE B = '${thisPageUrl}'`);
 // Construct the URL for fetching the data
-const csvUrl = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?tqx=out:csv&sheet=comments&tq=${sqlStatement}&headers=0`;
+const csvUrl = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?tqx=out:json&sheet=comments&tq=${sqlStatement}&headers=0`;
 // Fetch the data from the Google Sheets URL
 fetchComments(csvUrl)
 document
