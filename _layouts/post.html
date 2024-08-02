@@ -74,6 +74,7 @@ function formatDate(stringDate) {
 }
 function fetchComments(csvUrl) {
   fetch(csvUrl)
+  .then(response => response.text()) // Get the response text (data)
   .then(response => {
       const responseJSON = JSON.parse(response.replace(/(^google\.visualization\.Query\.setResponse\(|\);$)/g,''));
       console.log(responseJSON);
