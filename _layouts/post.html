@@ -75,10 +75,10 @@ function formatDate(stringDate) {
 function fetchComments(csvUrl) {
   fetch(csvUrl)
   .then(response => {
-      const response2 = JSON.parse(response);
-      console.log(response2);
+      const responseJSON = JSON.parse(response.replace(/(^google\.visualization\.Query\.setResponse\(|\);$)/g,''));
+      console.log(responseJSON);
       // Split the data into rows and then into individual cells
-      const rows = response2['table']['rows'];
+      const rows = responseJSON['table']['rows'];
       // Get the container element for the comments
       const commentsContainer = document.getElementById('comments');
       const tempDiv = document.createElement('div');
