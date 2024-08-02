@@ -15,7 +15,7 @@ I run at 7PM
 
 YES I am still badass 
 
-BCS I move my fast ass
+BCS I move my ~fast~ fat ass
 
 Period.
 
