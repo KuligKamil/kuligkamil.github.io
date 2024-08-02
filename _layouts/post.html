@@ -31,22 +31,22 @@ layout: default
 
   <form id="formForComments" >
     <label for="name">Name:</label><br>
-    <input type="text" id="name" name="entry.745975977" required><br><br>
+    <input type="text" id="name" name="entry.1323878998" required><br><br>
     
     <label for="email">Email:</label><br>
-    <input type="email" id="email" name="entry.1924141865" required><br><br>
+    <input type="email" id="email" name="entry.100293989" required><br><br>
     
     <label for="comment">Comment:</label><br>
-    <textarea id="comment" name="entry.43696339" rows="4" cols="50"></textarea><br><br>
+    <textarea id="comment" name="entry.1695891779" rows="4" cols="50"></textarea><br><br>
 
-    <input type="hidden" id="posturl" name="entry.77902338"><br><br>
+    <input type="hidden" id="posturl" name="entry.1724940548"><br><br>
     
     <button type="submit" id="submitButton">Submit</button>
   </form>
   
 </article>
 <script>
-             // Function to format the date and time from the data
+        // Function to format the date and time from the data
     function formatDate(stringDate) {
       
         // Split the string into date and time parts
@@ -72,91 +72,7 @@ layout: default
         // Return the formatted date and time
         return `${datePart} at ${timePart}`;
     }
-    const sheetId = '1EPskF2utkquS0bn49ymNXsgnuvuDgmXFkTuczRuRvaY';
-    // Get the current page URL
-    const thisPageUrl = window.location.href;
-    document.getElementById('posturl').value = thisPageUrl;
-    // Encode the SQL statement to be used in the URL
-    const sqlStatement = encodeURIComponent(`SELECT A, C, D, E, F WHERE B = '${thisPageUrl}'`);
-    // Construct the URL for fetching the data
-    const csvUrl = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?tqx=out:csv&sheet=comments&tq=${sqlStatement}&headers=0`;
-    // Fetch the data from the Google Sheets URL
-    document
-      .getElementById("submitButton")
-      .addEventListener("click", function (event) {
-      event.preventDefault();
-      var fetchForm = document.getElementById("formForComments");
-      var data = new FormData(fetchForm)
-    
-    fetch("https://docs.google.com/forms/u/0/d/e/1FAIpQLSch-3tL9nzlq9BOHW_Mf4rDNncNMbFRnsXRl675gmYWT1o5Ew/formResponse", {
-        method: "post",
-        body: data
-      })
-      .then((res) => {
-        return res.text();
-      })
-      .then((txt) => {
-        console.log("Submit Success");
-        fetchForm.reset();
-        document.getElementById('posturl').value = window.location.href;
-        fetch(csvUrl)
-        .then(response => response.text()) // Get the response text (data)
-        .then(csvText => {
-            // Split the data into rows and then into individual cells
-            const rows = csvText.trim().split('\n').map(row => row.split(','));
-            // Get the container element for the comments
-            const commentsContainer = document.getElementById('comments');
-            const tempDiv = document.createElement('div');
-            // Loop through each row of the data
-            rows.forEach(row => {
-                const date = formatDate(row[0]); // Format the date and time
-                const name = row[1]; // Get the name
-                const comment = row[2]; // Get the comment
-                const email = row[4]; // Get the email
-                // Create a new div element for the comment
-                const commentDiv = document.createElement('div');
-                // Set the inner HTML of the div element
-                commentDiv.innerHTML = `<strong><a href="mailto:${email}">${name}</a></strong> <em>${date}</em> <p>${comment}</p>`;
-                // Append the div element to the comments container
-                tempDiv.appendChild(commentDiv);
-            });
-            commentsContainer.replaceChildren(tempDiv)
-        })
-        .catch(error => console.error('Error fetching data:', error)); // Handle any errors
-      })
-      .catch((err) => {
-        console.log(err);
-         fetchForm.reset();
-        document.getElementById('posturl').value = window.location.href;
-        fetch(csvUrl)
-        .then(response => response.text()) // Get the response text (data)
-        .then(csvText => {
-            // Split the data into rows and then into individual cells
-            const rows = csvText.trim().split('\n').map(row => row.split(','));
-            // Get the container element for the comments
-            const commentsContainer = document.getElementById('comments');
-            const tempDiv = document.createElement('div');
-            // Loop through each row of the data
-            rows.forEach(row => {
-                const date = formatDate(row[0]); // Format the date and time
-                const name = row[1]; // Get the name
-                const comment = row[2]; // Get the comment
-                const email = row[4]; // Get the email
-                // Create a new div element for the comment
-                const commentDiv = document.createElement('div');
-                // Set the inner HTML of the div element
-                commentDiv.innerHTML = `<strong><a href="mailto:${email}">${name}</a></strong> <em>${date}</em> <p>${comment}</p>`;
-                // Append the div element to the comments container
-                tempDiv.appendChild(commentDiv);
-            });
-            commentsContainer.replaceChildren(tempDiv)
-        })
-        .catch(error => console.error('Error fetching data:', error)); // Handle any errors
-      });
-        return false;
-    });
-
-    
+     function fetchComments(csvUrl) {
       fetch(csvUrl)
         .then(response => response.text()) // Get the response text (data)
         .then(csvText => {
@@ -181,6 +97,45 @@ layout: default
             commentsContainer.replaceChildren(tempDiv)
         })
         .catch(error => console.error('Error fetching data:', error)); // Handle any errors
+    }
+    const sheetId = '14gVqcCNgnKrURomMVyl5PvtQ5BROaR6vOwiY5JyTAtQ';
+    // Get the current page URL
+    const thisPageUrl = window.location.href;
+    document.getElementById('posturl').value = thisPageUrl;
+    // Encode the SQL statement to be used in the URL
+    const sqlStatement = encodeURIComponent(`SELECT A, C, D, E, F WHERE B = '${thisPageUrl}'`);
+    // Construct the URL for fetching the data
+    const csvUrl = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?tqx=out:csv&sheet=comments&tq=${sqlStatement}&headers=0`;
+    // Fetch the data from the Google Sheets URL
+    fetchComments(csvUrl)
+    document
+      .getElementById("submitButton")
+      .addEventListener("click", function (event) {
+      event.preventDefault();
+      var fetchForm = document.getElementById("formForComments");
+      var data = new FormData(fetchForm)
+    
+    fetch("https://docs.google.com/forms/u/0/d/e/1FAIpQLSeyCgTOx9wUv1MMaSaU55j_tL8Oty04QzcmzJDtwSlL8TzeMw/formResponse", {
+        method: "post",
+        body: data
+      })
+      .then((res) => {
+        return res.text();
+      })
+      .then((txt) => {
+        console.log("Submit Success");
+        fetchForm.reset();
+        document.getElementById('posturl').value = window.location.href;
+        fetchComments(csvUrl)
+      })
+      .catch((err) => {
+        console.log(err);
+        fetchComments(csvUrl)
+      });
+        return false;
+    });
+
+   
 </script>
 <!-- <script src="https://utteranc.es/client.js"
           repo="kuligkamil/kuligkamil.github.io"
