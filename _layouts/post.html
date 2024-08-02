@@ -72,8 +72,8 @@ layout: default
         // Return the formatted date and time
         return `${datePart} at ${timePart}`;
     }
-     function fetchComments(csvUrl) {
-      fetch(csvUrl)
+    async function fetchComments(csvUrl) {
+      await fetch(csvUrl)
         .then(response => response.text()) // Get the response text (data)
         .then(csvText => {
             // Split the data into rows and then into individual cells
@@ -107,7 +107,7 @@ layout: default
     // Construct the URL for fetching the data
     const csvUrl = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?tqx=out:csv&sheet=comments&tq=${sqlStatement}&headers=0`;
     // Fetch the data from the Google Sheets URL
-    fetchComments(csvUrl)
+    await fetchComments(csvUrl)
     document
       .getElementById("submitButton")
       .addEventListener("click", function (event) {
@@ -126,11 +126,11 @@ layout: default
         console.log("Submit Success");
         fetchForm.reset();
         document.getElementById('posturl').value = window.location.href;
-        fetchComments(csvUrl)
+        await fetchComments(csvUrl)
       })
       .catch((err) => {
         console.log(err);
-        fetchComments(csvUrl)
+        await fetchComments(csvUrl)
       });
         return false;
     });
