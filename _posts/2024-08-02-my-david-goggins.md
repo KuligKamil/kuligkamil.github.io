@@ -85,7 +85,8 @@ Thank you Pops
 ## inspirations
 * my Dad
 
-Thanks for reading this ❤️
+
+Could you write comment about your last achivement?
 
 Love,
 
