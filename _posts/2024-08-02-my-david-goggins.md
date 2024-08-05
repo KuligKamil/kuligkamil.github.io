@@ -24,7 +24,7 @@ Thank you Pops
 
 
 ## finds 
-* Check the StackOverflow Developer Survey for 2024 [https://survey.stackoverflow.co/2024/)(https://survey.stackoverflow.co/2024/)
+* Check the StackOverflow Developer Survey for 2024 [https://survey.stackoverflow.co/2024/](https://survey.stackoverflow.co/2024/)
 
   FastApi for the win <3
   
