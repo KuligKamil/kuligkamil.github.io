@@ -63,7 +63,8 @@ If you like superhero movies, I recommend 9/10
 
 
   Example comparison of most stargazed repositories for Python on backend
-  
+  ![image](https://github.com/user-attachments/assets/316ac482-9406-4bea-8400-8f9e0c7c6343)
+  FastAPI for the win.
 
   Check link how easy to use it
   [https://star-history.com/blog/how-to-use-github-star-history](https://star-history.com/blog/how-to-use-github-star-history)
