@@ -1,16 +1,16 @@
 <div id="comments"></div>
 
 <form id="formForComments">
-  <label for="name">Name:</label><br>
+  <label for="name">Name</label><br>
   <input type="text" id="name" name="entry.1323878998" required><br><br>
   
-  <label for="email">Email:</label><br>
+  <label for="email">Email</label><br>
   <input type="email" id="email" name="entry.100293989" required><br><br>
   
-  <label for="comment">Comment:</label><br>
+  <label for="comment">Comment</label><br>
   <textarea id="comment" name="entry.1695891779" rows="4" cols="50"></textarea><br><br>
 
-  <input type="hidden" id="posturl" name="entry.1724940548"><br><br>
+  <input type="hidden" id="posturl" name="entry.1724940548">
   
   <button type="submit" id="submitButton">Submit</button>
 </form>
@@ -45,7 +45,7 @@ function fetchComments(csvUrl) {
   fetch(csvUrl)
     .then((response) => response.text()) // Get the response text (data)
     .then((response) => {
-      console.log(response);
+      // console.log(response);
       const respond2 = response.replace("/*O_o*/", "");
       const responseJSON = JSON.parse(
         respond2.replace(
@@ -94,8 +94,12 @@ document
   .getElementById("submitButton")
   .addEventListener("click", async function (event) {
     event.preventDefault();
-    var fetchForm = document.getElementById("formForComments");
-    var data = new FormData(fetchForm);
+    var form = document.getElementById("formForComments");
+    var data = new FormData(form);
+    form.classList.toggle("errors", !form.checkValidity());
+    if (!form.checkValidity()) {
+      return;
+    }
     try {
       await fetch(
         "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeyCgTOx9wUv1MMaSaU55j_tL8Oty04QzcmzJDtwSlL8TzeMw/formResponse",
@@ -105,11 +109,34 @@ document
         }
       );
     } catch (err) {
-      console.log(err);
-      fetchForm.reset();
+      form.reset();
       document.getElementById("posturl").value = window.location.href;
       fetchComments(csvUrl);
     }
   });
 
 </script> 
+<style>
+form.errors :invalid {
+  border-color: red;
+}
+input, textarea {
+  font-family: Arial;
+  font-size: 16px;
+  padding: 10px;
+}
+input {
+  width: 50%;
+}
+textarea {
+  width: 100%;
+}
+button {
+  appearance: none;
+  border: none;
+  padding: 10px 20px;
+  background: #2b7ae2;
+  color: white;
+  font-weight: bold;
+}
+</style>
