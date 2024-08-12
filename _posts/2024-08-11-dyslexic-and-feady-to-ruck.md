@@ -1,4 +1,4 @@
-# Dyslexic & Feady to Ruck
+# Dyslexic And Feady to Ruck
 
 Dear Friends
 
