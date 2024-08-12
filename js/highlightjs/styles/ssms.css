@@ -49,3 +49,7 @@
 .language-tsql .hljs-literal {
     color: #808080;
 }
+
+body {
+  overflow-wrap: break-word;
+}

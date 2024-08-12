@@ -8,7 +8,7 @@
   <input type="email" id="email" name="entry.100293989" required><br><br>
   
   <label for="comment">Comment</label><br>
-  <textarea id="comment" name="entry.1695891779" rows="4" cols="50"></textarea><br><br>
+  <textarea id="comment" name="entry.1695891779" rows="4" cols="50" required></textarea><br><br>
 
   <input type="hidden" id="posturl" name="entry.1724940548">
   
@@ -129,7 +129,10 @@ input {
   width: 50%;
 }
 textarea {
-  width: 100%;
+  min-width: 80%;
+  max-width: 80%;
+  min-height: 100px;
+  max-height: 500px;
 }
 button {
   appearance: none;
