@@ -1,46 +1,55 @@
 TODO: find links for this presentations
 
 what we present:
-* MongoDB for Beginners Kamil Kulig, Adam Brzyzek
-  TODO: add repo link
+* MongoDB for Beginners Kamil Kulig, Adam Brzyzek 
+  [repository](https://github.com/KuligKamil/mongodb-project-workshop)
 * What Makes Firms Sensitive to Investor Sentiment Measured By Google Trends - Adeel Ali Qureshi
 
   
 lighting talk Pablo Galindo Salgado
 * peleryna niewidka - harry potter - open 
   TODO: add photo
-  he did presentation fro children
+  he will do workshop for kids
 
-* Pablo - use emoji in python code
-
+* Pablo Galindo Salgado - use emoji in python code
+  add one line, comment returm - it will be never add to Python :(
+  
 presentations:
  
-* Snake of Theseus - Evolution of Python language - Pablo Galindo Salgado
+* The snake of Theseus - Evolution of Python language - Pablo Galindo Salgado
+  [youtube link to PyCon Ireland](https://www.youtube.com/watch?v=TQDzaMYTkYU)
   
-* Having fun with Pydantic and pattern matching
-  TODO: add link
+    As Python keeps evolving and attracts an ever-growing community with unique perspectives, steering council members and core developers face the enthralling challenge of preserving Python's fundamental identity. In this talk, we embark on a journey, exploring how Python retains its essence while evolving, accommodating new features, and embracing diverse viewpoints. From balancing innovation and compatibility, to navigating the maze of language design, we will discuss what fortifies Python against change and how we prepare to make complicated decisions that may change the language forever.
+
   
-* Pyscript 3D in the browser - Łukasz Langa
+* Having fun with Pydantic and pattern matching - Sebastian Buczyński
+  [youtube link to PyConUS](https://www.youtube.com/watch?v=MfUuHYi2jgY)
+  
+*  Build in-browser 3D experiences with WebGL and PyScript - Łukasz Langa
+  [youtube link to PyConUS](https://www.youtube.com/watch?v=NQyzFbYZjHk)
 
 
 * Documenting Python Code - Christian Heitzmann
   OK, I learn about Sphinx => Docstring power. Otherwhise docstring are not usefull.
-
+  [youtube link to PyCon Italia](https://www.youtube.com/watch?v=22xALcyoo4A)
+  
 * Dependency management, done right - Daniel Hervás
-  OK
+  [OK, youtube link to PyCon Slovenia - other presentation from Danil](https://www.youtube.com/watch?v=4_0nZfryank) 
   
 * [PL] Prywatne życie obiektów - Konrad Gawda
   TODO: add presentation
 
-Where to find datasets for your upcoming Python project
+* Where to find datasets for your upcoming Python project - Ruslan Korniichuk
+  [youtube link to PyTech Summit](https://www.youtube.com/watch?v=-UgumFMUs5M)
 
-Ruslan Korniichuk
-
+* Architecture as Code (AaC) with Python - Ruslan Korniichuk
+  [youtube link to PyTech Summit](https://www.youtube.com/watch?v=-UgumFMUs5M)
+  
 Workshops:
 
 * Multi-core processing in Python using Per-interpreter GIL
   we didn't attend
-    https://github.com/K4liber/pycon_pl_24_workshop/tree/main
+    [https://github.com/K4liber/pycon_pl_24_workshop/tree/main](https://github.com/K4liber/pycon_pl_24_workshop/tree/main)
 
 * Workshop - sktime - the python toolbox for time series - an introduction - Franz Kiraly
   TODO: add link 
