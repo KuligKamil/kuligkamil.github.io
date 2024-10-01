@@ -1,13 +1,13 @@
 TODO: find links for this presentations
 
 what we present:
-* MongoDB for Beginners Kamil Kulig, Adam Brzyzek 
+*  Workshop - MongoDB for Beginners Kamil Kulig, Adam Brzyzek 
   [repository](https://github.com/KuligKamil/mongodb-project-workshop)
 * What Makes Firms Sensitive to Investor Sentiment Measured By Google Trends - Adeel Ali Qureshi
 
   
 lighting talk Pablo Galindo Salgado
-* peleryna niewidka - harry potter - open 
+* Harry Potter i Tajemnice Pythona: Peleryna Niewidka: wykrywanie kolorów z OpenCV Leszek Miotk
   TODO: add photo
   he will do workshop for kids
 
@@ -37,7 +37,7 @@ presentations:
   [OK, youtube link to PyCon Slovenia - other presentation from Danil](https://www.youtube.com/watch?v=4_0nZfryank) 
   
 * [PL] Prywatne życie obiektów - Konrad Gawda
-  TODO: add presentation
+  TODO: I could send you if somebody is intrested. Konrad always go deep <3
 
 * Where to find datasets for your upcoming Python project - Ruslan Korniichuk
   [youtube link to PyTech Summit](https://www.youtube.com/watch?v=-UgumFMUs5M)
@@ -47,18 +47,21 @@ presentations:
   
 Workshops:
 
-* Multi-core processing in Python using Per-interpreter GIL
+*  Workshop - Multi-core processing in Python using Per-interpreter GIL
   we didn't attend
     [https://github.com/K4liber/pycon_pl_24_workshop/tree/main](https://github.com/K4liber/pycon_pl_24_workshop/tree/main)
 
 * Workshop - sktime - the python toolbox for time series - an introduction - Franz Kiraly
   TODO: add link 
   good staff for DS, not for us
-  to much, to fast,
+  to much, to fast
+  [https://github.com/sktime/sktime-workshop-pyconPL2024](https://github.com/sktime/sktime-workshop-pyconPL2024)
 
-* A complete instrumentation guide in Python -  Manoj Pandey, Neeraj Pandey
-  what toos they use: There is an entire spectrum of tools and processes to achieve application monitoring, observability, and telemetry for all your running apps. Where monitoring is an action you take, observability is an overall function or property of a system. The more you can observe a system, the more you can understand its complex ways. We no longer have to assume that various integrated services are a “black box” that we cannot see into. In this tutorial, we go through building a simple Python app and introduce “code instrumentation” as part of building observability and understanding the app's performance. We will finally see how this instrumentation is helpful to the developers and how can we visualise the final system using tools like Grafana etc.
+*  Workshop - A complete instrumentation guide in Python -  Manoj Pandey, Neeraj Pandey
+  what toos they use: [jaeger](https://github.com/jaegertracing/jaeger), [grafana](https://github.com/grafana/grafana), [prometheus](https://github.com/prometheus/prometheus), [loki](https://github.com/grafana/loki)
 
-  not good workshop, but have preety legit repository
+ [ https://github.com/neerajp99/pycon-pl-tutorial](https://github.com/neerajp99/pycon-pl-tutorial)
+   not good workshop, but have preety legit repository
 
+   
   Workshop - Polish documentation development [PL only]
