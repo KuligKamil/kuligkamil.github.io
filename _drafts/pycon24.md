@@ -63,5 +63,21 @@ Workshops:
  [ https://github.com/neerajp99/pycon-pl-tutorial](https://github.com/neerajp99/pycon-pl-tutorial)
    not good workshop, but have preety legit repository
 
+
+
+pycon SE 24
+Recommend - Presentation not only for old progrogrammers <3 
+Tobias respect and thank you for this amazing presentantion on PyCon Sweden.
+Tobias Modig - Get old, go slow, write code! 
+https://www.youtube.com/watch?v=lfCQhiibI5M
+
+
+Dr. Cristián Maureira-Fredes 
+
+AWESOME
+
+
+
+
    
   Workshop - Polish documentation development [PL only]
