@@ -63,6 +63,7 @@ Workshops:
  [ https://github.com/neerajp99/pycon-pl-tutorial](https://github.com/neerajp99/pycon-pl-tutorial)
    not good workshop, but have preety legit repository
 
+  Workshop - Polish documentation development [PL only]
 
 
 pycon SE 24
@@ -80,4 +81,33 @@ AWESOME
 
 menti.com - cool app to add for you presentation
    
-  Workshop - Polish documentation development [PL only]
+
+second key speaker touch very important but not so technical topic, not related with strict python 
+but more for tech peopl
+very important, huge topic and challange what could have imigrants in Sweden
+special women
+
+I want only mention I am not women, imigrant or Swidish.
+I am Polish man. And I see similar challanges in Poland.
+
+Two topics were mentions:
+Women in Tech. Immigrant in Sweden.
+
+
+
+I am glad we have space for this kind of topic. We need to highlight more this. 
+Speak, Highlight & Educate other
+thank you for it Ayyase & PyCon M
+
+
+Ayyase give tips, this not only for women or people wnat work in Sweden: 
+I will only highlight couple: 
+Don't do shootgun approuch
+Linkedin - power of it
+reseach of salary
+
+https://django-ninja.dev/
+
+
+
+**Stop being fluffy about DEI/**
