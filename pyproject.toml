@@ -1,0 +1,11 @@
+[project]
+name = "kuligkamil-github-io"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "copier-templates-extensions>=0.3.0",
+    "copier>=9.4.1",
+    "jinja2-time>=0.2.0",
+]

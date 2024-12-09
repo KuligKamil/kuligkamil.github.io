@@ -1,0 +1,58 @@
+title_link:
+  type: str
+  help: Post link title
+  validator: >-
+    {% if not (title_link | regex_search('^[a-z][a-z0-9\-]+$')) %} title_link must start with a letter, followed one or more letters, digits or dashes all lowercase. {% endif %}
+
+title_post:
+  type: str
+  help: Presentation title
+ 
+ideas:
+  type: bool # This makes Copier ask for y/n
+  help: Any ideas?
+  default: yes # Without a default, you force the user to answer
+
+challenges:
+  type: bool
+  help: Any challenges?
+  default: yes
+
+achievements:
+  type: bool
+  help: Any achievements?
+  default: yes
+
+learnings:
+  type: bool
+  help: Any learnings?
+  default: yes
+
+inspirations:
+  type: bool
+  help: Any inspirations?
+  default: yes
+
+finds:
+  type: bool
+  help: Any finds?
+  default: yes
+ 
+date:
+  type: str
+  help: Date - format YYYY-MM-DD - default is today
+
+_exclude:
+- copier.yaml
+- copier.yml
+- ~*
+- "*.py[co]"
+- __pycache__
+- .git
+- .DS_Store
+- .svn
+- extensions
+
+_jinja_extensions:
+- copier_templates_extensions.TemplateExtensionLoader
+- extensions/context.py:ContextUpdater
