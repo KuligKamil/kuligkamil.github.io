@@ -6,7 +6,7 @@ title_link:
 
 title_post:
   type: str
-  help: Presentation title
+  help: Title post
  
 ideas:
   type: bool # This makes Copier ask for y/n
