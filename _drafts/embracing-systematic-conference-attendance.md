@@ -1,10 +1,10 @@
 Why Embracing Systematic Conference Attendance Is a Game-Changer
 
 Pros:
-* Get a lot of knowleage.
+* Get a lot of knowledge.
 
 * If you are the fan to watch conference like me.
-  Totally different expirence than watch it from home. 
+  Totally different experience than watch it from home. 
   It's like watch concert on youtube. 
   You don't get same vibe, energy, understating of problem, reaction from peoples.
 
@@ -28,7 +28,7 @@ I didn't check but what's going on now on the market, and a lot of [layoffs](htt
 It's harder to get sponsor for conference.
 
 
-My list of conf  in 2023:
+My list of conf in 2023:
 * offline:
   * PyCon PL Gliwice
   * PyCon Sweden
@@ -36,8 +36,8 @@ My list of conf  in 2023:
 * online:
   * Vue Forge 3&4
 
-Definitly in next year will be more then 3!!!
+Definitely in next year will be more then 3!!!
 
-If you have issues or any doubtes to go to conference. Please share in comments or write private message.
+If you have issues or any doubts to go to conference. Please share in comments or write private message.
 I have hope I give you the reasons to go to conferences.
 
