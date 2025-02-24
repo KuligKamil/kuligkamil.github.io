@@ -1,4 +1,6 @@
-# I can't sleep, so I'm learning vim
+# I cant sleep
+
+I can't sleep, so I'm learning vim
 
 My mentor always said that if you understand something, you can easily explain it.
 
