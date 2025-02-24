@@ -1,5 +1,5 @@
 
-
+The best scrum master - my definition of scrum
 As a developer and leader more than 6 years.
 Review by Agnieszka and Marcin
 Agile - we are agile , no you are not
@@ -45,5 +45,5 @@ Optional - no accept some definiton of done- create task on backlog
 Backlog cleaning
 
 
-How grep tasks from jira
+How tasks from jira
 
