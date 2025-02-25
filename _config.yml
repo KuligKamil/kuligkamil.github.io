@@ -5,7 +5,7 @@ description: "💻 programmer, 🌟✨🏆 leader, 🐍 python lover, 🎮 gamer
 # All of these are optional and can be removed or commented out
 email: "kamil.marek.kulig@gmail.com"
 # twitter_username: "twitteruser"
-github_username: "KuligKamil" 
+github_username: "KuligKamil"
 linkedin_username: "kamil-kulig-81488b89"
 #facebook_username: username
 #flickr_username: username
@@ -13,7 +13,8 @@ instagram_username: "kamil._.kulig"
 #pinterest_username: username
 youtube_username: "Holy Grail - Kamil Kulig"
 #googleplus_username: +username
-
+future: true
+timezone: Europe/Warsaw
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
@@ -26,16 +27,17 @@ rss: rss
 #     disable: true
 #   input: GFM
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+- jekyll-feed
+- jekyll-sitemap
 
 titles_from_headings:
   strip_title: true
   collections: true
 
 defaults:
-  - scope:
-      path: ""
-      type: post
-    values:
-      tags: logs
+- scope:
+    path: ""
+    type: post
+  values:
+    tags: logs
+
