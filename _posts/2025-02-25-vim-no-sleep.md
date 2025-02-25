@@ -1,6 +1,4 @@
-# I cant sleep
-
-I can't sleep, so I'm learning vim
+# I can't sleep, so I'm learning vim
 
 My mentor always said that if you understand something, you can easily explain it.
 
@@ -63,6 +61,7 @@ That is why I will always try to make a presentation when I learn something.
 
 ## challanges VIM
 * fck VIM
+* fight with jekyll for blogging, I installed it on my local machine, still not sure what was the problem to not generate the new post, probably flag for future post need to be set to true in config.yml
 
 ## finds VIM
 * settings my vscode from [https://www.youtube.com/watch?v=GST8we5uABo&ab_channel=Melkey](https://www.youtube.com/watch?v=GST8we5uABo&ab_channel=Melkey), link to repo [https://github.com/Melkeydev/vscode_bindings/tree/main](https://github.com/Melkeydev/vscode_bindings/tree/main)
