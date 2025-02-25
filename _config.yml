@@ -18,7 +18,7 @@ timezone: Europe/Warsaw
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+# theme: "minima"
 
 rss: rss
 
@@ -26,9 +26,9 @@ rss: rss
 #   syntax_highlighter_opts:
 #     disable: true
 #   input: GFM
-plugins:
-- jekyll-feed
-- jekyll-sitemap
+# plugins:
+# - jekyll-feed
+# - jekyll-sitemap
 
 titles_from_headings:
   strip_title: true
@@ -37,7 +37,7 @@ titles_from_headings:
 defaults:
 - scope:
     path: ""
-    type: post
+    type: posts
   values:
     tags: logs
 
