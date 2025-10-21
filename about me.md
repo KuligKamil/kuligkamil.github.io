@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about me
+# title: about me
 ---
 <head>
   <link rel="stylesheet" href="style.css">
